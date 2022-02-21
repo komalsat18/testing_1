@@ -1,1 +1,1 @@
-# testing_1
+Steps for project guidelines:
